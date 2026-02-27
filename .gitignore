@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# AI models (CRITICAL)
+*.ckpt
+*.safetensors
+*.pt
+*.bin
+*.pth
+
+# Images
+*.png
+*.jpg
+*.jpeg
+outputs/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Colab
+.ipynb_checkpoints
